@@ -12,7 +12,7 @@ learning_rate_decay_factor = 0.1
 initial_learning_rate = 0.1
 
 # Data directory in the local machine.
-data_path = '/home/guou8j/Public_Projects/CNN_CIFAR10/cifar-10-binary/cifar-10-batches-bin'
+data_path = '/home/guou8j/Public_Projects/cnn_cifar10/cifar-10-binary/cifar-10-batches-bin'
 
 # Sizes definition.
 batch_size = 128
